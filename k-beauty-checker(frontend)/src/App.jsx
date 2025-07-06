@@ -4,6 +4,7 @@ import AdminPage from './AdminPage';
 import AboutUs from './AboutUs';
 import Contact from './Contact';
 import './App.css';
+import productsData from '../public/products.json'; // products.json import
 
 function Home() {
   const [products, setProducts] = useState([]);
@@ -11,12 +12,8 @@ function Home() {
   const [filteredProducts, setFilteredProducts] = useState([]);
 
   useEffect(() => {
-    fetch('/api/products')
-      .then(response => response.json())
-      .then(data => {
-        setProducts(data);
-        setFilteredProducts(data);
-      });
+    setProducts(productsData); // productsData를 직접 사용
+    setFilteredProducts(productsData);
   }, []);
 
   useEffect(() => {

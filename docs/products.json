@@ -81,730 +81,722 @@
   },
   {
     "id": 11,
-    "name": "Product 11",
-    "image": "https://via.placeholder.com/150/FF0000/FFFFFF?Text=Product+11",
+    "name": "Anua Heartleaf 77% Soothing Toner",
+    "image": "https://via.placeholder.com/150/FF0000/FFFFFF?Text=Anua",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 1",
-    "sales_data": "Sales Data 11"
+    "hwahae_ranking": "Toner/Skin 2nd",
+    "sales_data": "Viral on TikTok"
   },
   {
     "id": 12,
-    "name": "Product 12",
-    "image": "https://via.placeholder.com/150/00FF00/FFFFFF?Text=Product+12",
-    "olive_young_status": "Not in Olive Young",
-    "hwahae_ranking": "Rank 2",
-    "sales_data": "Sales Data 12"
+    "name": "Beauty of Joseon Relief Sun : Rice + Probiotics",
+    "image": "https://via.placeholder.com/150/00FF00/FFFFFF?Text=Joseon",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Sunscreen 1st",
+    "sales_data": "Global Bestseller"
   },
   {
     "id": 13,
-    "name": "Product 13",
-    "image": "https://via.placeholder.com/150/0000FF/FFFFFF?Text=Product+13",
+    "name": "Torriden Dive-In Low Molecular Hyaluronic Acid Serum",
+    "image": "https://via.placeholder.com/150/0000FF/FFFFFF?Text=Torriden",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 3",
-    "sales_data": "Sales Data 13"
+    "hwahae_ranking": "Essence/Serum/Ampoule 1st",
+    "sales_data": "Olive Young Bestseller"
   },
   {
     "id": 14,
-    "name": "Product 14",
-    "image": "https://via.placeholder.com/150/FFFF00/000000?Text=Product+14",
+    "name": "Abib Heartleaf Gummy Sheet Mask",
+    "image": "https://via.placeholder.com/150/FFFF00/000000?Text=Abib",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 4",
-    "sales_data": "Sales Data 14"
+    "hwahae_ranking": "Sheet Mask 3rd",
+    "sales_data": "Popular for sensitive skin"
   },
   {
     "id": 15,
-    "name": "Product 15",
-    "image": "https://via.placeholder.com/150/FF00FF/FFFFFF?Text=Product+15",
-    "olive_young_status": "Not in Olive Young",
-    "hwahae_ranking": "Rank 5",
-    "sales_data": "Sales Data 15"
+    "name": "SOME BY MI AHA BHA PHA 30 Days Miracle Toner",
+    "image": "https://via.placeholder.com/150/FF00FF/FFFFFF?Text=SOME+BY+MI",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Toner/Skin Top 5",
+    "sales_data": "Acne care favorite"
   },
   {
     "id": 16,
-    "name": "Product 16",
-    "image": "https://via.placeholder.com/150/00FFFF/000000?Text=Product+16",
+    "name": "Goodal Green Tangerine Vita C Dark Spot Serum",
+    "image": "https://via.placeholder.com/150/00FFFF/000000?Text=Goodal",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 6",
-    "sales_data": "Sales Data 16"
+    "hwahae_ranking": "Essence/Serum/Ampoule Top 10",
+    "sales_data": "Vitamin C powerhouse"
   },
   {
     "id": 17,
-    "name": "Product 17",
-    "image": "https://via.placeholder.com/150/800000/FFFFFF?Text=Product+17",
+    "name": "Numbuzin No.3 Super Glowing Essence Toner",
+    "image": "https://via.placeholder.com/150/800000/FFFFFF?Text=Numbuzin",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 7",
-    "sales_data": "Sales Data 17"
+    "hwahae_ranking": "Toner/Skin Top 10",
+    "sales_data": "Glass skin effect"
   },
   {
     "id": 18,
-    "name": "Product 18",
-    "image": "https://via.placeholder.com/150/008000/FFFFFF?Text=Product+18",
-    "olive_young_status": "Not in Olive Young",
-    "hwahae_ranking": "Rank 8",
-    "sales_data": "Sales Data 18"
+    "name": "SKIN1004 Madagascar Centella Ampoule",
+    "image": "https://via.placeholder.com/150/008000/FFFFFF?Text=SKIN1004",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Essence/Serum/Ampoule Top 3",
+    "sales_data": "Soothing and calming"
   },
   {
     "id": 19,
-    "name": "Product 19",
-    "image": "https://via.placeholder.com/150/000080/FFFFFF?Text=Product+19",
+    "name": "Isntree Hyaluronic Acid Watery Sun Gel",
+    "image": "https://via.placeholder.com/150/000080/FFFFFF?Text=Isntree",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 9",
-    "sales_data": "Sales Data 19"
+    "hwahae_ranking": "Sunscreen Top 5",
+    "sales_data": "Lightweight and hydrating"
   },
   {
     "id": 20,
-    "name": "Product 20",
-    "image": "https://via.placeholder.com/150/808000/FFFFFF?Text=Product+20",
+    "name": "Manyo Factory Pure Cleansing Oil",
+    "image": "https://via.placeholder.com/150/808000/FFFFFF?Text=Manyo",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 10",
-    "sales_data": "Sales Data 20"
+    "hwahae_ranking": "Cleansing Oil 1st",
+    "sales_data": "Removes makeup effectively"
   },
   {
     "id": 21,
-    "name": "Product 21",
-    "image": "https://via.placeholder.com/150/800080/FFFFFF?Text=Product+21",
-    "olive_young_status": "Not in Olive Young",
-    "hwahae_ranking": "Rank 11",
-    "sales_data": "Sales Data 21"
+    "name": "Pyunkang Yul Essence Toner",
+    "image": "https://via.placeholder.com/150/800080/FFFFFF?Text=Pyunkang+Yul",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Toner/Skin Top 10",
+    "sales_data": "Minimalist skincare"
   },
   {
     "id": 22,
-    "name": "Product 22",
-    "image": "https://via.placeholder.com/150/008080/FFFFFF?Text=Product+22",
+    "name": "Dr.G Red Blemish Clear Soothing Cream",
+    "image": "https://via.placeholder.com/150/008080/FFFFFF?Text=Dr.G",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 12",
-    "sales_data": "Sales Data 22"
+    "hwahae_ranking": "Cream 1st",
+    "sales_data": "Soothing for troubled skin"
   },
   {
     "id": 23,
-    "name": "Product 23",
-    "image": "https://via.placeholder.com/150/C0C0C0/000000?Text=Product+23",
+    "name": "Etude House SoonJung 5.5 pH Relief Toner",
+    "image": "https://via.placeholder.com/150/C0C0C0/000000?Text=Etude",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 13",
-    "sales_data": "Sales Data 23"
+    "hwahae_ranking": "Toner/Skin Top 10",
+    "sales_data": "Low pH formula"
   },
   {
     "id": 24,
-    "name": "Product 24",
-    "image": "https://via.placeholder.com/150/808080/FFFFFF?Text=Product+24",
-    "olive_young_status": "Not in Olive Young",
-    "hwahae_ranking": "Rank 14",
-    "sales_data": "Sales Data 24"
+    "name": "Cos De Baha Tranexamic Acid Niacinamide Serum",
+    "image": "https://via.placeholder.com/150/808080/FFFFFF?Text=Cos+De+Baha",
+    "olive_young_status": "Online Only",
+    "hwahae_ranking": "Essence/Serum/Ampoule Top 20",
+    "sales_data": "Brightening and anti-aging"
   },
   {
     "id": 25,
-    "name": "Product 25",
-    "image": "https://via.placeholder.com/150/FFD700/000000?Text=Product+25",
+    "name": "I'm From Rice Toner",
+    "image": "https://via.placeholder.com/150/FFD700/000000?Text=I'm+From",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 15",
-    "sales_data": "Sales Data 25"
+    "hwahae_ranking": "Toner/Skin Top 5",
+    "sales_data": "Nourishing and hydrating"
   },
   {
     "id": 26,
-    "name": "Product 26",
-    "image": "https://via.placeholder.com/150/DAA520/FFFFFF?Text=Product+26",
+    "name": "Klairs Freshly Juiced Vitamin Drop",
+    "image": "https://via.placeholder.com/150/DAA520/FFFFFF?Text=Klairs",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 16",
-    "sales_data": "Sales Data 26"
+    "hwahae_ranking": "Essence/Serum/Ampoule Top 10",
+    "sales_data": "Gentle Vitamin C"
   },
   {
     "id": 27,
-    "name": "Product 27",
-    "image": "https://via.placeholder.com/150/B8860B/FFFFFF?Text=Product+27",
-    "olive_young_status": "Not in Olive Young",
-    "hwahae_ranking": "Rank 17",
-    "sales_data": "Sales Data 27"
+    "name": "Beauty of Joseon Dynasty Cream",
+    "image": "https://via.placeholder.com/150/B8860B/FFFFFF?Text=Joseon",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Cream Top 5",
+    "sales_data": "Traditional Korean ingredients"
   },
   {
     "id": 28,
-    "name": "Product 28",
-    "image": "https://via.placeholder.com/150/CD853F/FFFFFF?Text=Product+28",
-    "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 18",
-    "sales_data": "Sales Data 28"
+    "name": "Axis-Y Dark Spot Correcting Glow Serum",
+    "image": "https://via.placeholder.com/150/CD853F/FFFFFF?Text=Axis-Y",
+    "olive_young_status": "Online Only",
+    "hwahae_ranking": "Essence/Serum/Ampoule Top 15",
+    "sales_data": "Popular for hyperpigmentation"
   },
   {
     "id": 29,
-    "name": "Product 29",
-    "image": "https://via.placeholder.com/150/D2691E/FFFFFF?Text=Product+29",
+    "name": "Haruharu Wonder Black Rice Hyaluronic Toner",
+    "image": "https://via.placeholder.com/150/D2691E/FFFFFF?Text=Haruharu",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 19",
-    "sales_data": "Sales Data 29"
+    "hwahae_ranking": "Toner/Skin Top 10",
+    "sales_data": "Fermented ingredients"
   },
   {
     "id": 30,
-    "name": "Product 30",
-    "image": "https://via.placeholder.com/150/A0522D/FFFFFF?Text=Product+30",
-    "olive_young_status": "Not in Olive Young",
-    "hwahae_ranking": "Rank 20",
-    "sales_data": "Sales Data 30"
+    "name": "Mixsoon Bean Essence",
+    "image": "https://via.placeholder.com/150/A0522D/FFFFFF?Text=Mixsoon",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Essence/Serum/Ampoule Top 5",
+    "sales_data": "Multi-purpose essence"
   },
   {
     "id": 31,
-    "name": "Product 31",
-    "image": "https://via.placeholder.com/150/6A5ACD/FFFFFF?Text=Product+31",
+    "name": "Celimax Noni Energy Ampoule",
+    "image": "https://via.placeholder.com/150/6A5ACD/FFFFFF?Text=Celimax",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 21",
-    "sales_data": "Sales Data 31"
+    "hwahae_ranking": "Essence/Serum/Ampoule Top 20",
+    "sales_data": "Noni extract benefits"
   },
   {
     "id": 32,
-    "name": "Product 32",
-    "image": "https://via.placeholder.com/150/483D8B/FFFFFF?Text=Product+32",
+    "name": "VT Cica Daily Soothing Mask",
+    "image": "https://via.placeholder.com/150/483D8B/FFFFFF?Text=VT",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 22",
-    "sales_data": "Sales Data 32"
+    "hwahae_ranking": "Sheet Mask Top 5",
+    "sales_data": "Daily soothing mask"
   },
   {
     "id": 33,
-    "name": "Product 33",
-    "image": "https://via.placeholder.com/150/6B8E23/FFFFFF?Text=Product+33",
-    "olive_young_status": "Not in Olive Young",
-    "hwahae_ranking": "Rank 23",
-    "sales_data": "Sales Data 33"
+    "name": "Cosrx Low pH Good Morning Gel Cleanser",
+    "image": "https://via.placeholder.com/150/6B8E23/FFFFFF?Text=Cosrx",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Cleanser 1st",
+    "sales_data": "Gentle and effective"
   },
   {
     "id": 34,
-    "name": "Product 34",
-    "image": "https://via.placeholder.com/150/8FBC8F/FFFFFF?Text=Product+34",
+    "name": "Laneige Water Sleeping Mask",
+    "image": "https://via.placeholder.com/150/8FBC8F/FFFFFF?Text=Laneige",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 24",
-    "sales_data": "Sales Data 34"
+    "hwahae_ranking": "Sleeping Mask 1st",
+    "sales_data": "Overnight hydration"
   },
   {
     "id": 35,
-    "name": "Product 35",
-    "image": "https://via.placeholder.com/150/20B2AA/FFFFFF?Text=Product+35",
+    "name": "Innisfree No Sebum Mineral Powder",
+    "image": "https://via.placeholder.com/150/20B2AA/FFFFFF?Text=Innisfree",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 25",
-    "sales_data": "Sales Data 35"
+    "hwahae_ranking": "Powder 1st",
+    "sales_data": "Oil control favorite"
   },
   {
     "id": 36,
-    "name": "Product 36",
-    "image": "https://via.placeholder.com/150/4682B4/FFFFFF?Text=Product+36",
-    "olive_young_status": "Not in Olive Young",
-    "hwahae_ranking": "Rank 26",
-    "sales_data": "Sales Data 36"
+    "name": "Romand Glasting Water Tint",
+    "image": "https://via.placeholder.com/150/4682B4/FFFFFF?Text=Romand",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Lip Tint 1st",
+    "sales_data": "Glossy and long-lasting"
   },
   {
     "id": 37,
-    "name": "Product 37",
-    "image": "https://via.placeholder.com/150/B0C4DE/FFFFFF?Text=Product+37",
+    "name": "Peripera Ink Glasting Lip Tint",
+    "image": "https://via.placeholder.com/150/B0C4DE/FFFFFF?Text=Peripera",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 27",
-    "sales_data": "Sales Data 37"
+    "hwahae_ranking": "Lip Tint Top 5",
+    "sales_data": "Affordable and popular"
   },
   {
     "id": 38,
-    "name": "Product 38",
-    "image": "https://via.placeholder.com/150/ADD8E6/FFFFFF?Text=Product+38",
+    "name": "Dasique Shadow Palette",
+    "image": "https://via.placeholder.com/150/ADD8E6/000000?Text=Dasique",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 28",
-    "sales_data": "Sales Data 38"
+    "hwahae_ranking": "Eyeshadow 1st",
+    "sales_data": "Daily makeup essential"
   },
   {
     "id": 39,
-    "name": "Product 39",
-    "image": "https://via.placeholder.com/150/87CEEB/FFFFFF?Text=Product+39",
-    "olive_young_status": "Not in Olive Young",
-    "hwahae_ranking": "Rank 29",
-    "sales_data": "Sales Data 39"
+    "name": "Espoir Pro Tailor Be Velvet Cushion",
+    "image": "https://via.placeholder.com/150/87CEEB/FFFFFF?Text=Espoir",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Cushion Foundation Top 5",
+    "sales_data": "Velvet finish"
   },
   {
     "id": 40,
-    "name": "Product 40",
-    "image": "https://via.placeholder.com/150/6495ED/FFFFFF?Text=Product+40",
-    "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 30",
-    "sales_data": "Sales Data 40"
+    "name": "Jung Saem Mool Essential Skin Nuder Cushion",
+    "image": "https://via.placeholder.com/150/6495ED/FFFFFF?Text=Jung+Saem+Mool",
+    "olive_young_status": "Department Store Brand",
+    "hwahae_ranking": "Cushion Foundation Top 3",
+    "sales_data": "Professional makeup artist favorite"
   },
   {
     "id": 41,
-    "name": "Product 41",
-    "image": "https://via.placeholder.com/150/4169E1/FFFFFF?Text=Product+41",
+    "name": "Amuse Dewy Vegan Cushion",
+    "image": "https://via.placeholder.com/150/4169E1/FFFFFF?Text=Amuse",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 31",
-    "sales_data": "Sales Data 41"
+    "hwahae_ranking": "Cushion Foundation Top 10",
+    "sales_data": "Vegan and dewy"
   },
   {
     "id": 42,
-    "name": "Product 42",
-    "image": "https://via.placeholder.com/150/1E90FF/FFFFFF?Text=Product+42",
-    "olive_young_status": "Not in Olive Young",
-    "hwahae_ranking": "Rank 32",
-    "sales_data": "Sales Data 42"
+    "name": "FilliMilli Sliced Puff",
+    "image": "https://via.placeholder.com/150/1E90FF/FFFFFF?Text=FilliMilli",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Makeup Tool 1st",
+    "sales_data": "Olive Young Bestseller"
   },
   {
     "id": 43,
-    "name": "Product 43",
-    "image": "https://via.placeholder.com/150/00BFFF/FFFFFF?Text=Product+43",
-    "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 33",
-    "sales_data": "Sales Data 43"
+    "name": "Piccasso Makeup Spatula",
+    "image": "https://via.placeholder.com/150/00BFFF/FFFFFF?Text=Piccasso",
+    "olive_young_status": "Online Only",
+    "hwahae_ranking": "Makeup Tool Top 5",
+    "sales_data": "Flawless foundation application"
   },
   {
     "id": 44,
-    "name": "Product 44",
-    "image": "https://via.placeholder.com/150/87CEFA/FFFFFF?Text=Product+44",
+    "name": "Dashing Diva Magic Press",
+    "image": "https://via.placeholder.com/150/87CEFA/FFFFFF?Text=Dashing+Diva",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 34",
-    "sales_data": "Sales Data 44"
+    "hwahae_ranking": "Nail Product 1st",
+    "sales_data": "Easy and quick nails"
   },
   {
     "id": 45,
-    "name": "Product 45",
-    "image": "https://via.placeholder.com/150/B0E0E6/FFFFFF?Text=Product+45",
-    "olive_young_status": "Not in Olive Young",
-    "hwahae_ranking": "Rank 35",
-    "sales_data": "Sales Data 45"
+    "name": "Olive Young Care Plus Spot Patch",
+    "image": "https://via.placeholder.com/150/B0E0E6/FFFFFF?Text=Olive+Young",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Acne Patch 1st",
+    "sales_data": "Must-have for acne"
   },
   {
     "id": 46,
-    "name": "Product 46",
-    "image": "https://via.placeholder.com/150/AFEEEE/FFFFFF?Text=Product+46",
+    "name": "Bioderma Sensibio H2O Micellar Water",
+    "image": "https://via.placeholder.com/150/AFEEEE/FFFFFF?Text=Bioderma",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 36",
-    "sales_data": "Sales Data 46"
+    "hwahae_ranking": "Cleansing Water 1st",
+    "sales_data": "Gentle and effective"
   },
   {
     "id": 47,
-    "name": "Product 47",
-    "image": "https://via.placeholder.com/150/40E0D0/FFFFFF?Text=Product+47",
+    "name": "Manyo Factory Bifida Biome Complex Ampoule",
+    "image": "https://via.placeholder.com/150/40E0D0/FFFFFF?Text=Manyo",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 37",
-    "sales_data": "Sales Data 47"
+    "hwahae_ranking": "Essence/Serum/Ampoule Top 10",
+    "sales_data": "Strengthens skin barrier"
   },
   {
     "id": 48,
-    "name": "Product 48",
-    "image": "https://via.placeholder.com/150/48D1CC/FFFFFF?Text=Product+48",
-    "olive_young_status": "Not in Olive Young",
-    "hwahae_ranking": "Rank 38",
-    "sales_data": "Sales Data 48"
+    "name": "Dr. Althea Resveratrol 345NA Intensive Repair Cream",
+    "image": "https://via.placeholder.com/150/48D1CC/FFFFFF?Text=Dr.Althea",
+    "olive_young_status": "Online Only",
+    "hwahae_ranking": "Cream Top 10",
+    "sales_data": "Anti-aging powerhouse"
   },
   {
     "id": 49,
-    "name": "Product 49",
-    "image": "https://via.placeholder.com/150/00CED1/FFFFFF?Text=Product+49",
+    "name": "By Wishtrend Mandelic Acid 5% Skin Prep Water",
+    "image": "https://via.placeholder.com/150/00CED1/FFFFFF?Text=By+Wishtrend",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 39",
-    "sales_data": "Sales Data 49"
+    "hwahae_ranking": "Exfoliator Top 5",
+    "sales_data": "Gentle exfoliation"
   },
   {
     "id": 50,
-    "name": "Product 50",
-    "image": "https://via.placeholder.com/150/5F9EA0/FFFFFF?Text=Product+50",
+    "name": "Dear, Klairs Supple Preparation Facial Toner",
+    "image": "https://via.placeholder.com/150/5F9EA0/FFFFFF?Text=Klairs",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 40",
-    "sales_data": "Sales Data 50"
+    "hwahae_ranking": "Toner/Skin Top 5",
+    "sales_data": "Hydrating and soothing"
   },
   {
     "id": 51,
-    "name": "Product 51",
-    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+51",
-    "olive_young_status": "Not in Olive Young",
-    "hwahae_ranking": "Rank 41",
-    "sales_data": "Sales Data 51"
+    "name": "Iunik Centella Calming Daily Sunscreen",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Iunik",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Sunscreen Top 10",
+    "sales_data": "Lightweight and non-sticky"
   },
   {
     "id": 52,
-    "name": "Product 52",
-    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+52",
-    "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 42",
-    "sales_data": "Sales Data 52"
+    "name": "Purito Centella Green Level Safe Sun",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Purito",
+    "olive_young_status": "Online Only",
+    "hwahae_ranking": "Sunscreen Top 5",
+    "sales_data": "Vegan and reef-safe"
   },
   {
     "id": 53,
-    "name": "Product 53",
-    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+53",
+    "name": "Skinfood Peach Cotton Pore Pact",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Skinfood",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 43",
-    "sales_data": "Sales Data 53"
+    "hwahae_ranking": "Powder Top 5",
+    "sales_data": "Pore blurring effect"
   },
   {
     "id": 54,
-    "name": "Product 54",
-    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+54",
-    "olive_young_status": "Not in Olive Young",
-    "hwahae_ranking": "Rank 44",
-    "sales_data": "Sales Data 54"
+    "name": "Aromatica Rosemary Scalp Scaling Shampoo",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Aromatica",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Shampoo 1st",
+    "sales_data": "Scalp care favorite"
   },
   {
     "id": 55,
-    "name": "Product 55",
-    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+55",
+    "name": "Dr. Forhair Folligen Original Shampoo",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Dr.Forhair",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 45",
-    "sales_data": "Sales Data 55"
+    "hwahae_ranking": "Shampoo Top 3",
+    "sales_data": "Hair loss care"
   },
   {
     "id": 56,
-    "name": "Product 56",
-    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+56",
+    "name": "Lador Perfect Hair Fill-Up",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Lador",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 46",
-    "sales_data": "Sales Data 56"
+    "hwahae_ranking": "Hair Treatment 1st",
+    "sales_data": "Salon-like results"
   },
   {
     "id": 57,
-    "name": "Product 57",
-    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+57",
-    "olive_young_status": "Not in Olive Young",
-    "hwahae_ranking": "Rank 47",
-    "sales_data": "Sales Data 57"
+    "name": "Mise En Scene Perfect Serum Original",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Mise+En+Scene",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Hair Serum 1st",
+    "sales_data": "Affordable and effective"
   },
   {
     "id": 58,
-    "name": "Product 58",
-    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+58",
-    "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 48",
-    "sales_data": "Sales Data 58"
+    "name": "Aestura Atobarrier 365 Cream",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Aestura",
+    "olive_young_status": "Pharmacy Brand",
+    "hwahae_ranking": "Cream Top 5",
+    "sales_data": "Dermatologist recommended"
   },
   {
     "id": 59,
-    "name": "Product 59",
-    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+59",
+    "name": "Illiyoon Ceramide Ato Concentrate Cream",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Illiyoon",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 49",
-    "sales_data": "Sales Data 59"
+    "hwahae_ranking": "Cream 1st",
+    "sales_data": "Family favorite"
   },
   {
     "id": 60,
-    "name": "Product 60",
-    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+60",
-    "olive_young_status": "Not in Olive Young",
-    "hwahae_ranking": "Rank 50",
-    "sales_data": "Sales Data 60"
+    "name": "Atopalm MLE Cream",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Atopalm",
+    "olive_young_status": "Pharmacy Brand",
+    "hwahae_ranking": "Cream Top 10",
+    "sales_data": "Sensitive skin solution"
   },
   {
     "id": 61,
-    "name": "Product 61",
-    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+61",
+    "name": "Dr. Jart+ Ceramidin Cream",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Dr.Jart+",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 51",
-    "sales_data": "Sales Data 61"
+    "hwahae_ranking": "Cream Top 3",
+    "sales_data": "Ceramide powerhouse"
   },
   {
     "id": 62,
-    "name": "Product 62",
-    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+62",
+    "name": "Etude House Dear Darling Water Tint",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Etude",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 52",
-    "sales_data": "Sales Data 62"
+    "hwahae_ranking": "Lip Tint Top 10",
+    "sales_data": "Fruity and vibrant"
   },
   {
     "id": 63,
-    "name": "Product 63",
-    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+63",
-    "olive_young_status": "Not in Olive Young",
-    "hwahae_ranking": "Rank 53",
-    "sales_data": "Sales Data 63"
+    "name": "Holika Holika Aloe 99% Soothing Gel",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Holika+Holika",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Soothing Gel 1st",
+    "sales_data": "Multi-purpose gel"
   },
   {
     "id": 64,
-    "name": "Product 64",
-    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+64",
+    "name": "Nature Republic Aloe Vera 92% Soothing Gel",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Nature+Republic",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 54",
-    "sales_data": "Sales Data 64"
+    "hwahae_ranking": "Soothing Gel Top 3",
+    "sales_data": "Global best-seller"
   },
   {
     "id": 65,
-    "name": "Product 65",
-    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+65",
+    "name": "TonyMoly I'm Real Sheet Mask",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=TonyMoly",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 55",
-    "sales_data": "Sales Data 65"
+    "hwahae_ranking": "Sheet Mask Top 10",
+    "sales_data": "Variety of options"
   },
   {
     "id": 66,
-    "name": "Product 66",
-    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+66",
-    "olive_young_status": "Not in Olive Young",
-    "hwahae_ranking": "Rank 56",
-    "sales_data": "Sales Data 66"
+    "name": "Innisfree Super Volcanic Pore Clay Mask",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Innisfree",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Clay Mask 1st",
+    "sales_data": "Pore care solution"
   },
   {
     "id": 67,
-    "name": "Product 67",
-    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+67",
+    "name": "Laneige Lip Sleeping Mask",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Laneige",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 57",
-    "sales_data": "Sales Data 67"
+    "hwahae_ranking": "Lip Care 1st",
+    "sales_data": "Overnight lip treatment"
   },
   {
     "id": 68,
-    "name": "Product 68",
-    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+68",
+    "name": "Mamonde Rose Water Toner",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Mamonde",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 58",
-    "sales_data": "Sales Data 68"
+    "hwahae_ranking": "Toner/Skin Top 10",
+    "sales_data": "Rose extract benefits"
   },
   {
     "id": 69,
-    "name": "Product 69",
-    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+69",
-    "olive_young_status": "Not in Olive Young",
-    "hwahae_ranking": "Rank 59",
-    "sales_data": "Sales Data 69"
+    "name": "Hanyul Yuja Sleeping Mask",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Hanyul",
+    "olive_young_status": "Department Store Brand",
+    "hwahae_ranking": "Sleeping Mask Top 5",
+    "sales_data": "Yuja scent and benefits"
   },
   {
     "id": 70,
-    "name": "Product 70",
-    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+70",
-    "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 60",
-    "sales_data": "Sales Data 70"
+    "name": "IOPE Bio Essence Intensive Conditioning",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=IOPE",
+    "olive_young_status": "Department Store Brand",
+    "hwahae_ranking": "Essence/Serum/Ampoule Top 5",
+    "sales_data": "First essence favorite"
   },
   {
     "id": 71,
-    "name": "Product 71",
-    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+71",
-    "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 61",
-    "sales_data": "Sales Data 71"
+    "name": "Sulwhasoo Concentrated Ginseng Renewing Cream",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Sulwhasoo",
+    "olive_young_status": "Department Store Brand",
+    "hwahae_ranking": "Cream Top Tier",
+    "sales_data": "Ginseng anti-aging"
   },
   {
     "id": 72,
-    "name": "Product 72",
-    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+72",
-    "olive_young_status": "Not in Olive Young",
-    "hwahae_ranking": "Rank 62",
-    "sales_data": "Sales Data 72"
+    "name": "The History of Whoo Bichup Self-Generating Anti-Aging Essence",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=The+History+of+Whoo",
+    "olive_young_status": "Department Store Brand",
+    "hwahae_ranking": "Essence/Serum/Ampoule Top Tier",
+    "sales_data": "Luxury anti-aging"
   },
   {
     "id": 73,
-    "name": "Product 73",
-    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+73",
-    "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 63",
-    "sales_data": "Sales Data 73"
+    "name": "Sum37 Secret Essence",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Sum37",
+    "olive_young_status": "Department Store Brand",
+    "hwahae_ranking": "Essence/Serum/Ampoule Top 10",
+    "sales_data": "Fermented skincare"
   },
   {
     "id": 74,
-    "name": "Product 74",
-    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+74",
-    "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 64",
-    "sales_data": "Sales Data 74"
+    "name": "Hera UV Protector Multi-Defense",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Hera",
+    "olive_young_status": "Department Store Brand",
+    "hwahae_ranking": "Sunscreen Top 5",
+    "sales_data": "Multi-functional sunscreen"
   },
   {
     "id": 75,
-    "name": "Product 75",
-    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+75",
-    "olive_young_status": "Not in Olive Young",
-    "hwahae_ranking": "Rank 65",
-    "sales_data": "Sales Data 75"
+    "name": "Espoir Water Splash Sun Cream",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Espoir",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Sunscreen Top 10",
+    "sales_data": "Lightweight and refreshing"
   },
   {
     "id": 76,
-    "name": "Product 76",
-    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+76",
+    "name": "Romand Zero Velvet Tint",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Romand",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 66",
-    "sales_data": "Sales Data 76"
+    "hwahae_ranking": "Lip Tint Top 3",
+    "sales_data": "Velvet matte finish"
   },
   {
     "id": 77,
-    "name": "Product 77",
-    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+77",
+    "name": "3CE Velvet Lip Tint",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=3CE",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 67",
-    "sales_data": "Sales Data 77"
+    "hwahae_ranking": "Lip Tint Top 5",
+    "sales_data": "Trendy and popular"
   },
   {
     "id": 78,
-    "name": "Product 78",
-    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+78",
-    "olive_young_status": "Not in Olive Young",
-    "hwahae_ranking": "Rank 68",
-    "sales_data": "Sales Data 78"
+    "name": "Clio Pro Eye Palette",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Clio",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Eyeshadow Top 3",
+    "sales_data": "Versatile color combinations"
   },
   {
     "id": 79,
-    "name": "Product 79",
-    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+79",
+    "name": "Peripera Ink Black Cara",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Peripera",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 69",
-    "sales_data": "Sales Data 79"
+    "hwahae_ranking": "Mascara Top 3",
+    "sales_data": "Long-lasting and smudge-proof"
   },
   {
     "id": 80,
-    "name": "Product 80",
-    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+80",
+    "name": "Etude House Curl Fix Mascara",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Etude",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 70",
-    "sales_data": "Sales Data 80"
+    "hwahae_ranking": "Mascara Top 5",
+    "sales_data": "Strong curl retention"
   },
   {
     "id": 81,
-    "name": "Product 81",
-    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+81",
-    "olive_young_status": "Not in Olive Young",
-    "hwahae_ranking": "Rank 71",
-    "sales_data": "Sales Data 81"
+    "name": "Innisfree Bija Trouble Facial Foam",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Innisfree",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Cleanser Top 5",
+    "sales_data": "Acne-prone skin favorite"
   },
   {
     "id": 82,
-    "name": "Product 82",
-    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+82",
+    "name": "Cosrx Salicylic Acid Daily Gentle Cleanser",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Cosrx",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 72",
-    "sales_data": "Sales Data 82"
+    "hwahae_ranking": "Cleanser Top 10",
+    "sales_data": "Gentle exfoliation"
   },
   {
     "id": 83,
-    "name": "Product 83",
-    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+83",
+    "name": "Round Lab Birch Juice Moisturizing Sun Cream",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Round+Lab",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 73",
-    "sales_data": "Sales Data 83"
+    "hwahae_ranking": "Sunscreen 1st",
+    "sales_data": "Hydrating and lightweight"
   },
   {
     "id": 84,
-    "name": "Product 84",
-    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+84",
-    "olive_young_status": "Not in Olive Young",
-    "hwahae_ranking": "Rank 74",
-    "sales_data": "Sales Data 84"
+    "name": "Dr.G Green Mild Up Sun+",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Dr.G",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Sunscreen Top 3",
+    "sales_data": "Physical sunscreen"
   },
   {
     "id": 85,
-    "name": "Product 85",
-    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+85",
+    "name": "Beauty of Joseon Ginseng Essence Water",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Joseon",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 75",
-    "sales_data": "Sales Data 85"
+    "hwahae_ranking": "Toner/Skin Top 3",
+    "sales_data": "Ginseng benefits"
   },
   {
     "id": 86,
-    "name": "Product 86",
-    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+86",
+    "name": "Torriden Solid In Ceramide Cream",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Torriden",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 76",
-    "sales_data": "Sales Data 86"
+    "hwahae_ranking": "Cream Top 5",
+    "sales_data": "Barrier strengthening"
   },
   {
     "id": 87,
-    "name": "Product 87",
-    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+87",
-    "olive_young_status": "Not in Olive Young",
-    "hwahae_ranking": "Rank 77",
-    "sales_data": "Sales Data 87"
+    "name": "Abib Hydration Crème Water Tube",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Abib",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Cream Top 10",
+    "sales_data": "Lightweight hydration"
   },
   {
     "id": 88,
-    "name": "Product 88",
-    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+88",
+    "name": "SOME BY MI Yuja Niacin 30 Days Blemish Care Serum",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=SOME+BY+MI",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 78",
-    "sales_data": "Sales Data 88"
+    "hwahae_ranking": "Essence/Serum/Ampoule Top 10",
+    "sales_data": "Brightening and blemish care"
   },
   {
     "id": 89,
-    "name": "Product 89",
-    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+89",
+    "name": "Goodal Green Tangerine Vita C Dark Spot Cream",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Goodal",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 79",
-    "sales_data": "Sales Data 89"
+    "hwahae_ranking": "Cream Top 5",
+    "sales_data": "Vitamin C cream"
   },
   {
     "id": 90,
-    "name": "Product 90",
-    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+90",
-    "olive_young_status": "Not in Olive Young",
-    "hwahae_ranking": "Rank 80",
-    "sales_data": "Sales Data 90"
+    "name": "Numbuzin No.6 Deep Sleep Mask Serum",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Numbuzin",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Sleeping Mask Top 3",
+    "sales_data": "Overnight skin repair"
   },
   {
     "id": 91,
-    "name": "Product 91",
-    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+91",
+    "name": "SKIN1004 Madagascar Centella Tone Brightening Tone-Up Sunscreen",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=SKIN1004",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 81",
-    "sales_data": "Sales Data 91"
+    "hwahae_ranking": "Sunscreen Top 10",
+    "sales_data": "Tone-up effect"
   },
   {
     "id": 92,
-    "name": "Product 92",
-    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+92",
+    "name": "Isntree Mugwort Calming Clay Mask",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Isntree",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 82",
-    "sales_data": "Sales Data 92"
+    "hwahae_ranking": "Clay Mask Top 3",
+    "sales_data": "Calming and purifying"
   },
   {
     "id": 93,
-    "name": "Product 93",
-    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+93",
-    "olive_young_status": "Not in Olive Young",
-    "hwahae_ranking": "Rank 83",
-    "sales_data": "Sales Data 93"
+    "name": "Manyo Factory Galactomy Cleansing Oil",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Manyo",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Cleansing Oil Top 3",
+    "sales_data": "Gentle and effective"
   },
   {
     "id": 94,
-    "name": "Product 94",
-    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+94",
+    "name": "Pyunkang Yul Calming Moisture Barrier Cream",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Pyunkang+Yul",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 84",
-    "sales_data": "Sales Data 94"
+    "hwahae_ranking": "Cream Top 10",
+    "sales_data": "Barrier strengthening"
   },
   {
     "id": 95,
-    "name": "Product 95",
-    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+95",
+    "name": "Dr.G R.E.D Blemish Clear Cream",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Dr.G",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 85",
-    "sales_data": "Sales Data 95"
+    "hwahae_ranking": "Cream Top 3",
+    "sales_data": "Acne-prone skin solution"
   },
   {
     "id": 96,
-    "name": "Product 96",
-    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+96",
-    "olive_young_status": "Not in Olive Young",
-    "hwahae_ranking": "Rank 86",
-    "sales_data": "Sales Data 96"
+    "name": "Etude House SoonJung 2x Barrier Intensive Cream",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Etude",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Cream Top 5",
+    "sales_data": "Sensitive skin friendly"
   },
   {
     "id": 97,
-    "name": "Product 97",
-    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+97",
-    "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 87",
-    "sales_data": "Sales Data 97"
+    "name": "Cos De Baha Azelaic Acid 10 Serum",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Cos+De+Baha",
+    "olive_young_status": "Online Only",
+    "hwahae_ranking": "Essence/Serum/Ampoule Top 20",
+    "sales_data": "Acne and redness care"
   },
   {
     "id": 98,
-    "name": "Product 98",
-    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+98",
+    "name": "I'm From Mugwort Mask",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=I'm+From",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 88",
-    "sales_data": "Sales Data 98"
+    "hwahae_ranking": "Wash-off Mask Top 3",
+    "sales_data": "Calming and soothing"
   },
   {
     "id": 99,
-    "name": "Product 99",
-    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+99",
-    "olive_young_status": "Not in Olive Young",
-    "hwahae_ranking": "Rank 89",
-    "sales_data": "Sales Data 99"
+    "name": "Klairs Midnight Blue Calming Cream",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Klairs",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Cream Top 10",
+    "sales_data": "Post-treatment soothing"
   },
   {
     "id": 100,
-    "name": "Product 100",
-    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+100",
+    "name": "Iunik Propolis Vitamin Synergy Serum",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Iunik",
     "olive_young_status": "In Stock",
-    "hwahae_ranking": "Rank 90",
-    "sales_data": "Sales Data 100"
-  },
-  {
-    "name": "a",
-    "image": "a",
-    "olive_young_status": "a",
-    "hwahae_ranking": "a",
-    "sales_data": "a",
-    "id": 101
+    "hwahae_ranking": "Essence/Serum/Ampoule Top 15",
+    "sales_data": "Nourishing and brightening"
   }
 ]

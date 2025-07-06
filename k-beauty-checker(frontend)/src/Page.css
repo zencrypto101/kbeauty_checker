@@ -1,0 +1,79 @@
+.page-container {
+  max-width: var(--content-max-width); /* Use consistent max-width from App.css */
+  margin: 30px auto;
+  padding: var(--content-padding); /* Consistent padding */
+  background-color: var(--background-white);
+  border-radius: 8px;
+  box-shadow: 0 4px 12px var(--shadow-medium);
+  text-align: left;
+  box-sizing: border-box; /* Ensure consistent box model */
+}
+
+.page-title {
+  color: var(--primary-color);
+  font-size: 2em;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.page-content {
+  font-size: 1em;
+  line-height: 1.7;
+  margin-bottom: 12px;
+  color: var(--text-medium);
+}
+
+.contact-info p,
+.social-links p {
+  font-size: 1em;
+  margin-bottom: 8px;
+}
+
+.contact-info strong {
+  color: var(--primary-color);
+}
+
+.social-links a {
+  color: var(--primary-color);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.social-links a:hover {
+  text-decoration: underline;
+}
+
+/* Responsive adjustments for pages */
+@media (max-width: 576px) {
+  .page-container {
+    margin: 20px auto;
+    padding: 20px;
+  }
+
+  .page-title {
+    font-size: 1.8em;
+  }
+
+  .page-content,
+  .contact-info p,
+  .social-links p {
+    font-size: 0.95em;
+  }
+}
+
+@media (max-width: 480px) {
+  .page-container {
+    margin: 15px;
+    padding: 15px;
+  }
+
+  .page-title {
+    font-size: 1.5em;
+  }
+
+  .page-content,
+  .contact-info p,
+  .social-links p {
+    font-size: 0.9em;
+  }
+}

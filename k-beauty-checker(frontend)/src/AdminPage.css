@@ -1,0 +1,210 @@
+.admin-container {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f8f9fa;
+  color: #343a40;
+  min-height: 100vh;
+  padding-bottom: 50px;
+}
+
+.admin-header {
+  background-color: #343a40;
+  color: #ffffff;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.admin-header h1 {
+  margin: 0;
+  font-size: 2.5em;
+}
+
+.home-button {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: 600;
+  transition: background-color 0.3s ease;
+}
+
+.home-button:hover {
+  background-color: #0056b3;
+}
+
+.admin-main {
+  max-width: 900px;
+  margin: 30px auto;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.product-form-section,
+.bulk-upload-section,
+.product-list-section {
+  margin-bottom: 40px;
+  padding: 20px;
+  border: 1px solid #e9ecef;
+  border-radius: 8px;
+  background-color: #fdfdfd;
+}
+
+.product-form-section h2,
+.bulk-upload-section h2,
+.product-list-section h2 {
+  color: #007bff;
+  margin-top: 0;
+  margin-bottom: 20px;
+  font-size: 1.8em;
+}
+
+.product-form-section form input[type="text"],
+.product-form-section form textarea,
+.bulk-upload-section textarea {
+  width: calc(100% - 22px);
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+  font-size: 1em;
+}
+
+.product-form-section form button,
+.bulk-upload-section button {
+  padding: 10px 20px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1em;
+  margin-right: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.product-form-section form button:hover,
+.bulk-upload-section button:hover {
+  background-color: #218838;
+}
+
+.product-form-section form button[type="button"] {
+  background-color: #dc3545;
+}
+
+.product-form-section form button[type="button"]:hover {
+  background-color: #c82333;
+}
+
+.product-list .product-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.product-list .product-item:last-child {
+  border-bottom: none;
+}
+
+.product-list .product-item span {
+  font-size: 1.1em;
+  color: #343a40;
+}
+
+.product-list .product-item button {
+  padding: 8px 12px;
+  margin-left: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9em;
+  transition: background-color 0.3s ease;
+}
+
+.product-list .product-item button:first-of-type {
+  background-color: #ffc107; /* Warning yellow */
+  color: #343a40;
+}
+
+.product-list .product-item button:first-of-type:hover {
+  background-color: #e0a800;
+}
+
+.product-list .product-item button:last-of-type {
+  background-color: #dc3545; /* Danger red */
+  color: white;
+}
+
+.product-list .product-item button:last-of-type:hover {
+  background-color: #c82333;
+}
+
+.success-message {
+  background-color: #d4edda; /* Light green background */
+  color: #155724; /* Dark green text */
+  border: 1px solid #c3e6cb; /* Green border */
+  padding: 10px 20px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  text-align: center;
+  font-weight: bold;
+  position: sticky; /* Make it sticky */
+  top: 0; /* Position at the top */
+  z-index: 1000; /* Ensure it's above other content */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.password-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  padding: 30px;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+  max-width: 400px;
+  margin: 50px auto;
+}
+
+.password-form p {
+  font-size: 1.1em;
+  color: #343a40;
+  margin-bottom: 5px;
+}
+
+.password-form input[type="password"] {
+  width: 80%;
+  padding: 10px 15px;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+  font-size: 1em;
+  text-align: center;
+}
+
+.password-form button {
+  padding: 10px 25px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1.1em;
+  transition: background-color 0.3s ease;
+}
+
+.password-form button:hover {
+  background-color: #0056b3;
+}
+
+.error-message {
+  color: #dc3545; /* Red color for error messages */
+  font-weight: bold;
+  margin-top: 10px;
+}

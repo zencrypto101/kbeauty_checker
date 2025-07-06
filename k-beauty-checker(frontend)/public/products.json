@@ -1,0 +1,810 @@
+[
+  {
+    "id": 1,
+    "name": "Round Lab 1025 Dokdo Toner",
+    "image": "https://via.placeholder.com/150/FFC0CB/000000?Text=Round+Lab",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Toner/Skin 1st",
+    "sales_data": "Over 10 million cumulative sales"
+  },
+  {
+    "id": 2,
+    "name": "COSRX Advanced Snail 96 Mucin Power Essence",
+    "image": "https://via.placeholder.com/150/A0E6B4/000000?Text=COSRX",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Essence/Serum/Ampoule 5th",
+    "sales_data": "5 million global cumulative sales"
+  },
+  {
+    "id": 3,
+    "name": "Laneige Cream Skin Refiner",
+    "image": "https://via.placeholder.com/150/B2DAE7/000000?Text=Laneige",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Toner/Skin 3rd",
+    "sales_data": "2 million units sold in 2023"
+  },
+  {
+    "id": 4,
+    "name": "Innisfree Green Tea Seed Serum",
+    "image": "https://via.placeholder.com/150/90EE90/000000?Text=Innisfree",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Essence/Serum/Ampoule Top 10",
+    "sales_data": "30 million cumulative sales"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Jart+ Cicapair Tiger Grass Color Correcting Treatment",
+    "image": "https://via.placeholder.com/150/D3D3D3/000000?Text=Dr.Jart+",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Makeup Base 2nd",
+    "sales_data": "US Sephora Bestseller"
+  },
+  {
+    "id": 6,
+    "name": "Sulwhasoo First Care Activating Serum",
+    "image": "https://via.placeholder.com/150/F5DEB3/000000?Text=Sulwhasoo",
+    "olive_young_status": "Not in Olive Young (Department Store Brand)",
+    "hwahae_ranking": "Essence/Serum/Ampoule Top Tier",
+    "sales_data": "Brand Representative Product"
+  },
+  {
+    "id": 7,
+    "name": "Hera Black Cushion",
+    "image": "https://via.placeholder.com/150/000000/FFFFFF?Text=Hera",
+    "olive_young_status": "Not in Olive Young (Department Store Brand)",
+    "hwahae_ranking": "Cushion Foundation 1st",
+    "sales_data": "8 million cumulative sales"
+  },
+  {
+    "id": 8,
+    "name": "Mediheal Teatree Care Solution Essential Mask",
+    "image": "https://via.placeholder.com/150/ADD8E6/000000?Text=Mediheal",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Sheet Mask 1st",
+    "sales_data": "2 billion sheets sold worldwide"
+  },
+  {
+    "id": 9,
+    "name": "Clio Kill Lash Superproof Mascara",
+    "image": "https://via.placeholder.com/150/FFB6C1/000000?Text=Clio",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Mascara 1st",
+    "sales_data": "Olive Young Awards 3 consecutive years"
+  },
+  {
+    "id": 10,
+    "name": "Too Cool For School Artclass by Rodin Shading",
+    "image": "https://via.placeholder.com/150/D2B48C/000000?Text=Too+Cool",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Shading/Highlighter 1st",
+    "sales_data": "National Shading, 10 million units sold"
+  },
+  {
+    "id": 11,
+    "name": "Product 11",
+    "image": "https://via.placeholder.com/150/FF0000/FFFFFF?Text=Product+11",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 1",
+    "sales_data": "Sales Data 11"
+  },
+  {
+    "id": 12,
+    "name": "Product 12",
+    "image": "https://via.placeholder.com/150/00FF00/FFFFFF?Text=Product+12",
+    "olive_young_status": "Not in Olive Young",
+    "hwahae_ranking": "Rank 2",
+    "sales_data": "Sales Data 12"
+  },
+  {
+    "id": 13,
+    "name": "Product 13",
+    "image": "https://via.placeholder.com/150/0000FF/FFFFFF?Text=Product+13",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 3",
+    "sales_data": "Sales Data 13"
+  },
+  {
+    "id": 14,
+    "name": "Product 14",
+    "image": "https://via.placeholder.com/150/FFFF00/000000?Text=Product+14",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 4",
+    "sales_data": "Sales Data 14"
+  },
+  {
+    "id": 15,
+    "name": "Product 15",
+    "image": "https://via.placeholder.com/150/FF00FF/FFFFFF?Text=Product+15",
+    "olive_young_status": "Not in Olive Young",
+    "hwahae_ranking": "Rank 5",
+    "sales_data": "Sales Data 15"
+  },
+  {
+    "id": 16,
+    "name": "Product 16",
+    "image": "https://via.placeholder.com/150/00FFFF/000000?Text=Product+16",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 6",
+    "sales_data": "Sales Data 16"
+  },
+  {
+    "id": 17,
+    "name": "Product 17",
+    "image": "https://via.placeholder.com/150/800000/FFFFFF?Text=Product+17",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 7",
+    "sales_data": "Sales Data 17"
+  },
+  {
+    "id": 18,
+    "name": "Product 18",
+    "image": "https://via.placeholder.com/150/008000/FFFFFF?Text=Product+18",
+    "olive_young_status": "Not in Olive Young",
+    "hwahae_ranking": "Rank 8",
+    "sales_data": "Sales Data 18"
+  },
+  {
+    "id": 19,
+    "name": "Product 19",
+    "image": "https://via.placeholder.com/150/000080/FFFFFF?Text=Product+19",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 9",
+    "sales_data": "Sales Data 19"
+  },
+  {
+    "id": 20,
+    "name": "Product 20",
+    "image": "https://via.placeholder.com/150/808000/FFFFFF?Text=Product+20",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 10",
+    "sales_data": "Sales Data 20"
+  },
+  {
+    "id": 21,
+    "name": "Product 21",
+    "image": "https://via.placeholder.com/150/800080/FFFFFF?Text=Product+21",
+    "olive_young_status": "Not in Olive Young",
+    "hwahae_ranking": "Rank 11",
+    "sales_data": "Sales Data 21"
+  },
+  {
+    "id": 22,
+    "name": "Product 22",
+    "image": "https://via.placeholder.com/150/008080/FFFFFF?Text=Product+22",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 12",
+    "sales_data": "Sales Data 22"
+  },
+  {
+    "id": 23,
+    "name": "Product 23",
+    "image": "https://via.placeholder.com/150/C0C0C0/000000?Text=Product+23",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 13",
+    "sales_data": "Sales Data 23"
+  },
+  {
+    "id": 24,
+    "name": "Product 24",
+    "image": "https://via.placeholder.com/150/808080/FFFFFF?Text=Product+24",
+    "olive_young_status": "Not in Olive Young",
+    "hwahae_ranking": "Rank 14",
+    "sales_data": "Sales Data 24"
+  },
+  {
+    "id": 25,
+    "name": "Product 25",
+    "image": "https://via.placeholder.com/150/FFD700/000000?Text=Product+25",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 15",
+    "sales_data": "Sales Data 25"
+  },
+  {
+    "id": 26,
+    "name": "Product 26",
+    "image": "https://via.placeholder.com/150/DAA520/FFFFFF?Text=Product+26",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 16",
+    "sales_data": "Sales Data 26"
+  },
+  {
+    "id": 27,
+    "name": "Product 27",
+    "image": "https://via.placeholder.com/150/B8860B/FFFFFF?Text=Product+27",
+    "olive_young_status": "Not in Olive Young",
+    "hwahae_ranking": "Rank 17",
+    "sales_data": "Sales Data 27"
+  },
+  {
+    "id": 28,
+    "name": "Product 28",
+    "image": "https://via.placeholder.com/150/CD853F/FFFFFF?Text=Product+28",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 18",
+    "sales_data": "Sales Data 28"
+  },
+  {
+    "id": 29,
+    "name": "Product 29",
+    "image": "https://via.placeholder.com/150/D2691E/FFFFFF?Text=Product+29",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 19",
+    "sales_data": "Sales Data 29"
+  },
+  {
+    "id": 30,
+    "name": "Product 30",
+    "image": "https://via.placeholder.com/150/A0522D/FFFFFF?Text=Product+30",
+    "olive_young_status": "Not in Olive Young",
+    "hwahae_ranking": "Rank 20",
+    "sales_data": "Sales Data 30"
+  },
+  {
+    "id": 31,
+    "name": "Product 31",
+    "image": "https://via.placeholder.com/150/6A5ACD/FFFFFF?Text=Product+31",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 21",
+    "sales_data": "Sales Data 31"
+  },
+  {
+    "id": 32,
+    "name": "Product 32",
+    "image": "https://via.placeholder.com/150/483D8B/FFFFFF?Text=Product+32",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 22",
+    "sales_data": "Sales Data 32"
+  },
+  {
+    "id": 33,
+    "name": "Product 33",
+    "image": "https://via.placeholder.com/150/6B8E23/FFFFFF?Text=Product+33",
+    "olive_young_status": "Not in Olive Young",
+    "hwahae_ranking": "Rank 23",
+    "sales_data": "Sales Data 33"
+  },
+  {
+    "id": 34,
+    "name": "Product 34",
+    "image": "https://via.placeholder.com/150/8FBC8F/FFFFFF?Text=Product+34",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 24",
+    "sales_data": "Sales Data 34"
+  },
+  {
+    "id": 35,
+    "name": "Product 35",
+    "image": "https://via.placeholder.com/150/20B2AA/FFFFFF?Text=Product+35",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 25",
+    "sales_data": "Sales Data 35"
+  },
+  {
+    "id": 36,
+    "name": "Product 36",
+    "image": "https://via.placeholder.com/150/4682B4/FFFFFF?Text=Product+36",
+    "olive_young_status": "Not in Olive Young",
+    "hwahae_ranking": "Rank 26",
+    "sales_data": "Sales Data 36"
+  },
+  {
+    "id": 37,
+    "name": "Product 37",
+    "image": "https://via.placeholder.com/150/B0C4DE/FFFFFF?Text=Product+37",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 27",
+    "sales_data": "Sales Data 37"
+  },
+  {
+    "id": 38,
+    "name": "Product 38",
+    "image": "https://via.placeholder.com/150/ADD8E6/FFFFFF?Text=Product+38",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 28",
+    "sales_data": "Sales Data 38"
+  },
+  {
+    "id": 39,
+    "name": "Product 39",
+    "image": "https://via.placeholder.com/150/87CEEB/FFFFFF?Text=Product+39",
+    "olive_young_status": "Not in Olive Young",
+    "hwahae_ranking": "Rank 29",
+    "sales_data": "Sales Data 39"
+  },
+  {
+    "id": 40,
+    "name": "Product 40",
+    "image": "https://via.placeholder.com/150/6495ED/FFFFFF?Text=Product+40",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 30",
+    "sales_data": "Sales Data 40"
+  },
+  {
+    "id": 41,
+    "name": "Product 41",
+    "image": "https://via.placeholder.com/150/4169E1/FFFFFF?Text=Product+41",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 31",
+    "sales_data": "Sales Data 41"
+  },
+  {
+    "id": 42,
+    "name": "Product 42",
+    "image": "https://via.placeholder.com/150/1E90FF/FFFFFF?Text=Product+42",
+    "olive_young_status": "Not in Olive Young",
+    "hwahae_ranking": "Rank 32",
+    "sales_data": "Sales Data 42"
+  },
+  {
+    "id": 43,
+    "name": "Product 43",
+    "image": "https://via.placeholder.com/150/00BFFF/FFFFFF?Text=Product+43",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 33",
+    "sales_data": "Sales Data 43"
+  },
+  {
+    "id": 44,
+    "name": "Product 44",
+    "image": "https://via.placeholder.com/150/87CEFA/FFFFFF?Text=Product+44",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 34",
+    "sales_data": "Sales Data 44"
+  },
+  {
+    "id": 45,
+    "name": "Product 45",
+    "image": "https://via.placeholder.com/150/B0E0E6/FFFFFF?Text=Product+45",
+    "olive_young_status": "Not in Olive Young",
+    "hwahae_ranking": "Rank 35",
+    "sales_data": "Sales Data 45"
+  },
+  {
+    "id": 46,
+    "name": "Product 46",
+    "image": "https://via.placeholder.com/150/AFEEEE/FFFFFF?Text=Product+46",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 36",
+    "sales_data": "Sales Data 46"
+  },
+  {
+    "id": 47,
+    "name": "Product 47",
+    "image": "https://via.placeholder.com/150/40E0D0/FFFFFF?Text=Product+47",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 37",
+    "sales_data": "Sales Data 47"
+  },
+  {
+    "id": 48,
+    "name": "Product 48",
+    "image": "https://via.placeholder.com/150/48D1CC/FFFFFF?Text=Product+48",
+    "olive_young_status": "Not in Olive Young",
+    "hwahae_ranking": "Rank 38",
+    "sales_data": "Sales Data 48"
+  },
+  {
+    "id": 49,
+    "name": "Product 49",
+    "image": "https://via.placeholder.com/150/00CED1/FFFFFF?Text=Product+49",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 39",
+    "sales_data": "Sales Data 49"
+  },
+  {
+    "id": 50,
+    "name": "Product 50",
+    "image": "https://via.placeholder.com/150/5F9EA0/FFFFFF?Text=Product+50",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 40",
+    "sales_data": "Sales Data 50"
+  },
+  {
+    "id": 51,
+    "name": "Product 51",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+51",
+    "olive_young_status": "Not in Olive Young",
+    "hwahae_ranking": "Rank 41",
+    "sales_data": "Sales Data 51"
+  },
+  {
+    "id": 52,
+    "name": "Product 52",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+52",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 42",
+    "sales_data": "Sales Data 52"
+  },
+  {
+    "id": 53,
+    "name": "Product 53",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+53",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 43",
+    "sales_data": "Sales Data 53"
+  },
+  {
+    "id": 54,
+    "name": "Product 54",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+54",
+    "olive_young_status": "Not in Olive Young",
+    "hwahae_ranking": "Rank 44",
+    "sales_data": "Sales Data 54"
+  },
+  {
+    "id": 55,
+    "name": "Product 55",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+55",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 45",
+    "sales_data": "Sales Data 55"
+  },
+  {
+    "id": 56,
+    "name": "Product 56",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+56",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 46",
+    "sales_data": "Sales Data 56"
+  },
+  {
+    "id": 57,
+    "name": "Product 57",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+57",
+    "olive_young_status": "Not in Olive Young",
+    "hwahae_ranking": "Rank 47",
+    "sales_data": "Sales Data 57"
+  },
+  {
+    "id": 58,
+    "name": "Product 58",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+58",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 48",
+    "sales_data": "Sales Data 58"
+  },
+  {
+    "id": 59,
+    "name": "Product 59",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+59",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 49",
+    "sales_data": "Sales Data 59"
+  },
+  {
+    "id": 60,
+    "name": "Product 60",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+60",
+    "olive_young_status": "Not in Olive Young",
+    "hwahae_ranking": "Rank 50",
+    "sales_data": "Sales Data 60"
+  },
+  {
+    "id": 61,
+    "name": "Product 61",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+61",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 51",
+    "sales_data": "Sales Data 61"
+  },
+  {
+    "id": 62,
+    "name": "Product 62",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+62",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 52",
+    "sales_data": "Sales Data 62"
+  },
+  {
+    "id": 63,
+    "name": "Product 63",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+63",
+    "olive_young_status": "Not in Olive Young",
+    "hwahae_ranking": "Rank 53",
+    "sales_data": "Sales Data 63"
+  },
+  {
+    "id": 64,
+    "name": "Product 64",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+64",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 54",
+    "sales_data": "Sales Data 64"
+  },
+  {
+    "id": 65,
+    "name": "Product 65",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+65",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 55",
+    "sales_data": "Sales Data 65"
+  },
+  {
+    "id": 66,
+    "name": "Product 66",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+66",
+    "olive_young_status": "Not in Olive Young",
+    "hwahae_ranking": "Rank 56",
+    "sales_data": "Sales Data 66"
+  },
+  {
+    "id": 67,
+    "name": "Product 67",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+67",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 57",
+    "sales_data": "Sales Data 67"
+  },
+  {
+    "id": 68,
+    "name": "Product 68",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+68",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 58",
+    "sales_data": "Sales Data 68"
+  },
+  {
+    "id": 69,
+    "name": "Product 69",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+69",
+    "olive_young_status": "Not in Olive Young",
+    "hwahae_ranking": "Rank 59",
+    "sales_data": "Sales Data 69"
+  },
+  {
+    "id": 70,
+    "name": "Product 70",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+70",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 60",
+    "sales_data": "Sales Data 70"
+  },
+  {
+    "id": 71,
+    "name": "Product 71",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+71",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 61",
+    "sales_data": "Sales Data 71"
+  },
+  {
+    "id": 72,
+    "name": "Product 72",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+72",
+    "olive_young_status": "Not in Olive Young",
+    "hwahae_ranking": "Rank 62",
+    "sales_data": "Sales Data 72"
+  },
+  {
+    "id": 73,
+    "name": "Product 73",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+73",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 63",
+    "sales_data": "Sales Data 73"
+  },
+  {
+    "id": 74,
+    "name": "Product 74",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+74",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 64",
+    "sales_data": "Sales Data 74"
+  },
+  {
+    "id": 75,
+    "name": "Product 75",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+75",
+    "olive_young_status": "Not in Olive Young",
+    "hwahae_ranking": "Rank 65",
+    "sales_data": "Sales Data 75"
+  },
+  {
+    "id": 76,
+    "name": "Product 76",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+76",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 66",
+    "sales_data": "Sales Data 76"
+  },
+  {
+    "id": 77,
+    "name": "Product 77",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+77",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 67",
+    "sales_data": "Sales Data 77"
+  },
+  {
+    "id": 78,
+    "name": "Product 78",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+78",
+    "olive_young_status": "Not in Olive Young",
+    "hwahae_ranking": "Rank 68",
+    "sales_data": "Sales Data 78"
+  },
+  {
+    "id": 79,
+    "name": "Product 79",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+79",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 69",
+    "sales_data": "Sales Data 79"
+  },
+  {
+    "id": 80,
+    "name": "Product 80",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+80",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 70",
+    "sales_data": "Sales Data 80"
+  },
+  {
+    "id": 81,
+    "name": "Product 81",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+81",
+    "olive_young_status": "Not in Olive Young",
+    "hwahae_ranking": "Rank 71",
+    "sales_data": "Sales Data 81"
+  },
+  {
+    "id": 82,
+    "name": "Product 82",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+82",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 72",
+    "sales_data": "Sales Data 82"
+  },
+  {
+    "id": 83,
+    "name": "Product 83",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+83",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 73",
+    "sales_data": "Sales Data 83"
+  },
+  {
+    "id": 84,
+    "name": "Product 84",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+84",
+    "olive_young_status": "Not in Olive Young",
+    "hwahae_ranking": "Rank 74",
+    "sales_data": "Sales Data 84"
+  },
+  {
+    "id": 85,
+    "name": "Product 85",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+85",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 75",
+    "sales_data": "Sales Data 85"
+  },
+  {
+    "id": 86,
+    "name": "Product 86",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+86",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 76",
+    "sales_data": "Sales Data 86"
+  },
+  {
+    "id": 87,
+    "name": "Product 87",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+87",
+    "olive_young_status": "Not in Olive Young",
+    "hwahae_ranking": "Rank 77",
+    "sales_data": "Sales Data 87"
+  },
+  {
+    "id": 88,
+    "name": "Product 88",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+88",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 78",
+    "sales_data": "Sales Data 88"
+  },
+  {
+    "id": 89,
+    "name": "Product 89",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+89",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 79",
+    "sales_data": "Sales Data 89"
+  },
+  {
+    "id": 90,
+    "name": "Product 90",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+90",
+    "olive_young_status": "Not in Olive Young",
+    "hwahae_ranking": "Rank 80",
+    "sales_data": "Sales Data 90"
+  },
+  {
+    "id": 91,
+    "name": "Product 91",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+91",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 81",
+    "sales_data": "Sales Data 91"
+  },
+  {
+    "id": 92,
+    "name": "Product 92",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+92",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 82",
+    "sales_data": "Sales Data 92"
+  },
+  {
+    "id": 93,
+    "name": "Product 93",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+93",
+    "olive_young_status": "Not in Olive Young",
+    "hwahae_ranking": "Rank 83",
+    "sales_data": "Sales Data 93"
+  },
+  {
+    "id": 94,
+    "name": "Product 94",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+94",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 84",
+    "sales_data": "Sales Data 94"
+  },
+  {
+    "id": 95,
+    "name": "Product 95",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+95",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 85",
+    "sales_data": "Sales Data 95"
+  },
+  {
+    "id": 96,
+    "name": "Product 96",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+96",
+    "olive_young_status": "Not in Olive Young",
+    "hwahae_ranking": "Rank 86",
+    "sales_data": "Sales Data 96"
+  },
+  {
+    "id": 97,
+    "name": "Product 97",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+97",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 87",
+    "sales_data": "Sales Data 97"
+  },
+  {
+    "id": 98,
+    "name": "Product 98",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+98",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 88",
+    "sales_data": "Sales Data 98"
+  },
+  {
+    "id": 99,
+    "name": "Product 99",
+    "image": "https://via.placeholder.com/150/66CDAA/FFFFFF?Text=Product+99",
+    "olive_young_status": "Not in Olive Young",
+    "hwahae_ranking": "Rank 89",
+    "sales_data": "Sales Data 99"
+  },
+  {
+    "id": 100,
+    "name": "Product 100",
+    "image": "https://via.placeholder.com/150/7FFFD4/FFFFFF?Text=Product+100",
+    "olive_young_status": "In Stock",
+    "hwahae_ranking": "Rank 90",
+    "sales_data": "Sales Data 100"
+  },
+  {
+    "name": "a",
+    "image": "a",
+    "olive_young_status": "a",
+    "hwahae_ranking": "a",
+    "sales_data": "a",
+    "id": 101
+  }
+]

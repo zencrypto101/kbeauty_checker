@@ -55,7 +55,7 @@ function Home() {
 
 function App() {
   return (
-    <Router>
+    <Router basename="/kbeauty_checker">
       <div className="App">
         <header className="App-header">
           <h1>K-Beauty Popularity Checker</h1>
